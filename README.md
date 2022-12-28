@@ -1,10 +1,9 @@
-- 👋 Hi, I’m ISRAEL TETTEH 
-- 👀 I’m interested in ...Cloud architecture/Engineering, Azure, AWS, DevOps.
-- 🌱 I’m currently learning ... Solution Architecture, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Tettehisrael1@gmail.com
+### hey there 
+<a href="https://twitter.com/T_israel_">
+  <img align="left" alt="Israel Tetteh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/israeltetteh/">
+  <img align="left" alt="Tetteh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!---
-Tettehisrael/Tettehisrael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
