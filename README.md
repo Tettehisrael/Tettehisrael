@@ -25,6 +25,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - You can check out my <a href="https://medium.com/@tettehisrael">Blog</a> 
 
 
-📝 **Here's my CVs** <br />
-You can see my resume [Here](https://docs.google.com/document/d/17EHCBC1f_lwS1j65hxt2TXrT1EzGWQ0EqGyKR0cB58c/edit?usp=sharing) 
+📝 [**Here's my CVs**](https://docs.google.com/document/d/17EHCBC1f_lwS1j65hxt2TXrT1EzGWQ0EqGyKR0cB58c/edit?usp=sharing) <br />
+
 
