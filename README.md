@@ -19,5 +19,5 @@ I enjoy building systems that improve operational efficiency and make complex te
 - 💼 Freelance & contract work: [email](mailto:Tettehisrael1@gmail.com)  
 - 💬 Happy to help — ask me about DevOps or platform engineering  
 
-📝 **[View my CV](https://docs.google.com/document/d/17EHCBC1f_lwS1j65hxt2TXrT1EzGWQ0EqGyKR0cB58c/edit?usp=sharing)**
+📝 **[View my CV](https://docs.google.com/document/d/1L_LwH3ZIBQ5KbVYvG0ZraffmZT6CELyc3z9LCad1NY8/edit?tab=t.0)**
 
